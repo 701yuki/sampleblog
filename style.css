@@ -1,0 +1,133 @@
+body {
+background-color: white;
+font-size: 14px;
+color: #333;
+margin: 0;
+
+}
+
+h1,h3,h4,h5 {
+margin: 0 0 10px 0;
+padding: 0 ;
+}
+
+header {
+  margin-top: 20px;
+}
+
+
+.container {
+  width: 920px ;
+  margin: 0 auto 40px auto;
+  text-align: center;
+}
+
+.header-title-area {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 32px;
+}
+
+.header-navigation {
+  width: 100% ;
+  background-color: #333;
+  ;
+  padding: 20px 0;
+}
+
+.header-navigation:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+
+.header-navigation li {
+  float: left;
+  padding: 0 30px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.header-navigation li a {
+  color: #efefef;
+  text-decoration: none;
+}
+
+
+
+.card-contents {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.left-contents {
+  width: 600px;
+  margin-right: 20px;
+  float: left;
+}
+
+
+.right-contents {
+  width: 300px ;
+  float: right;
+}
+
+.big-picture {
+  width: 140px;
+  height: 140px;
+  float: left;
+  padding-right: 5px;
+}
+
+.small-picture {
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+
+.diary1 {
+  text-align: left;
+}
+
+.blog-title {
+  font-size: 23px;
+}
+
+.comment {
+font-size: 14px;
+text-align: left;
+}
+
+h2 {
+  text-align: left;
+  border-bottom: solid 2px #efefef ;
+  padding-bottom: 20px ;
+}
+
+.diary2 {
+  text-align: left;
+}
+
+.sample-blog-title {
+  margin-right: 90px;
+}
+
+.small-picture {
+  margin-right: 5px;
+}
+
+.copyright {
+  color: #777;
+  text-align: center;
+  border-top: solid 2px #efefef ;
+  padding-top: 20px;
+}
+
+.main:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
